@@ -1,5 +1,5 @@
 body {
-  --primary: #631d76;
+  --primary: #2635bb;
   --secondary: #9e4770;
   --white: #fbfbfb;
   --dark: #2e2532;
@@ -24,6 +24,12 @@ body {
 
 .banner {
   margin: 50px;
+}
+
+.title {
+  margin-top: 20px;
+  color: #4141b8;
+  font-style: italic;
 }
 
 .columns.products {
